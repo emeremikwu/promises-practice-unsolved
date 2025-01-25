@@ -1,4 +1,6 @@
-/**
+// getting errors instaling and running json server, all other tests pass
+
+/** 
  * GET DATABASE LOGINS LIST
  * Make sure to read the /exercise-info/11-fetching-in-Node-JS.md file before you start
  * Make sure to read the /exercise-info/11-json-server.md file before you start
@@ -34,7 +36,7 @@ const getLoginList = () => {
 /**
  * @task 
  * Create the getData constant that stores the promise 
- * of the fetched the URL variable:
+ * of the fetched the URL variable:np
  * example: const getData = <node_fetch_function_call>
 */
 
